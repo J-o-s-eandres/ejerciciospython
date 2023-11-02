@@ -1,0 +1,16 @@
+{
+    "id":"ft01",
+    "nombre":"Manzana",
+    "color": ["roja", "verde", "amarilla"],
+    "costo": 28,
+    "children":[
+        {
+            "variedad": "Red Delicious",
+            "cantidad" : 10
+        },
+        {
+            "variedad": "Golden",
+            "cantidad": 23
+        }
+    ]
+}
